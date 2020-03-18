@@ -19,4 +19,4 @@ features:
   details: What makes Acumatica Magento Connector more robust is most of the system is configurable.
 footer: Copyright © 2020 Kensium Solutions. All Rights Reserved.
 ---
-[!This is an image] (shabs.png)
+![This is an image] (shabs.png)
